@@ -1,0 +1,1 @@
+wyswietlacz.o: ../wyswietlacz.c

@@ -1,0 +1,3 @@
+INT/INT.o: ../INT/INT.c ../INT/UART_BIBL.h
+
+../INT/UART_BIBL.h:

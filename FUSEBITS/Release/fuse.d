@@ -1,0 +1,1 @@
+fuse.o: ../fuse.c
